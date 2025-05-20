@@ -1,0 +1,161 @@
+body{
+    background-image: url(./Background.png);
+    font-family: "Hammersmith One", sans-serif;
+   
+   
+}
+
+.navbar-background{
+    background-color: transparent;
+}
+
+.centering{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.education-container{
+        width: 600px;
+        height: 600px;
+        background-image: url('./Rectangular_Frame01.png');
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        align-items: left;
+        justify-content: center;
+        padding: 40px;
+        
+        box-sizing: border-box;
+}
+
+.education{
+    padding: 50px;
+}
+ul{
+    padding-left: 0px;
+}
+
+.heading{
+    color: #112D4E;
+    font-size: 45px;
+    letter-spacing: 5px;
+}
+.body-container{
+    height: 90vh;
+}
+
+.content{
+    color: #3F72AF;
+    font-size: 20px;
+}
+
+
+.experience-container {
+    width: 650px;
+    height: 650px;
+    background-image: url('./Circular_Frame.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    padding: 40px;
+
+    box-sizing: border-box;
+}
+
+.experience{
+    padding-right: 65px;
+    padding-top: 90px;
+    padding-bottom: 80px;
+    padding-left: 110px;
+}
+
+.content2{
+    color: #3F72AF;
+    font-size: 15px;
+}
+.heading2{
+    color: #112D4E;
+        font-size: 25px;
+        letter-spacing: 5px;
+
+}
+
+
+.project-container {
+    width:650px;
+    height: 325px;
+    background-image: url('./RectangularFrame02.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    padding: 40px;
+
+    box-sizing: border-box;
+}
+
+.project {
+    padding-right: 65px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-left: 70px;
+}
+
+.flex{
+    display: flex;
+    gap: 20px;
+}
+
+
+.contact-container {
+    width: 650px;
+    height: 650px;
+    background-image: url('./Circular_Frame.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    padding: 40px;
+
+    box-sizing: border-box;
+}
+
+.contact {
+    padding-right: 65px;
+    padding-top: 120px;
+    padding-bottom: 40px;
+    padding-left: 110px;
+}
+
+.moreaboutme-container {
+    width: 600px;
+    height: 355px;
+    background-image: url('./Rectangular_frame03.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    padding: 40px;
+
+    box-sizing: border-box;
+}
+
+.moreaboutme {
+    padding-right: 45px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-left: 40px;
+}
+
+.number-font{
+    font-family: serif;
+    font-weight: 900;
+}
